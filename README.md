@@ -5,6 +5,6 @@ In this Python Reinforcement Learning Tutorial series we teach an AI to play Sna
 You can find all tutorials on my channel: [Playlist](https://www.youtube.com/playlist?list=PLqnslRFeH2UrDh7vUmJ60YrmWd64mTTKV)
 
 
-t 2: Lea
+
 
 
